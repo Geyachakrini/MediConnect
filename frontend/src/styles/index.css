@@ -1,0 +1,11 @@
+/* Reset default Vite styles */
+body {
+  margin: 0;
+  padding: 0;
+  background: #caf0f0;  /* full page background */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
